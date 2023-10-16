@@ -2,7 +2,7 @@
 Project 2: Recency, Frequency and Monetary Analysis
 
 #performing the analysis using Jupiter Notebook
-
+```python
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
@@ -67,3 +67,4 @@ plt.title('LuxTech Monetary')
 plt.grid()
 
 plt.show()
+```
